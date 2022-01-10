@@ -2,7 +2,7 @@
 Shopclues is an Indian E-commerce website, providing the facility of purchasing the products through online mode to its consumers from an inventory of vast amount of products under various categories like electronics, clothing, homedecor etc.
 
 We were able to clone the UI of www.shopclues.com along with working features like signin, signup,signout, profile viewing, addtoCart, addtoWishlist etc. in a time span of 5-6 days.
-
+<h3>https://narendrapanchal.github.io/shopcluesclone.github.io/</h3>
 <h3>Tech Stacks Used:</h3> HTML, CSS, JS
 
 
